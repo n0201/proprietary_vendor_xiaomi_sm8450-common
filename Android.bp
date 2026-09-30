@@ -9879,7 +9879,6 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "vendor.display.config@2.0",
                 "libdisplayconfig.qti",
-                "vendor.qti.hardware.display.config-V5-ndk",
                 "libc++",
                 "libc",
                 "libm",
